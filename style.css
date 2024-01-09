@@ -1,3 +1,4 @@
 p {
-    border: 10px red;
+    border: 10px solid red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

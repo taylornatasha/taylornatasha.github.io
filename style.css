@@ -1,9 +1,13 @@
 p {
-    border: 10px solid red;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0 auto;
+}
+
 img {
-    width: 291px;
-    height: 76px;
+    width: 73px;
+    height: 19px;
 }

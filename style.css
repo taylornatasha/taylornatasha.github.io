@@ -2,3 +2,8 @@ p {
     border: 10px solid red;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+img {
+    width: 291px;
+    height: 76px;
+}
